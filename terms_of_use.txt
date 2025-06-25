@@ -1,0 +1,56 @@
+Terms of Use for Screen Recorder App
+
+Effective Date: June 25, 2025
+Last Updated: June 25, 2025
+
+Please read these Terms of Use ("Terms") carefully before using the Screen Recorder app ("App", "we", "our", or "us"). By using the App, you agree to be bound by these Terms. If you do not agree with any part of the Terms, you must not use the App.
+
+1. Use of the App
+------------------
+The Screen Recorder app is provided to you for personal, non-commercial use on iOS devices. You may use the App only in accordance with applicable local, state, national, and international laws.
+
+You agree not to:
+
+- Use the App for illegal, harmful, or abusive purposes
+- Record content without the permission of all participants, where required by law
+- Reverse engineer, copy, or resell the App
+
+2. Recordings and Content
+---------------------------
+All content recorded using this App is stored **locally** on your device. We do **not** access, store, or transmit your recordings. You are solely responsible for ensuring that any use of screen recording complies with local privacy laws.
+
+You retain all rights to the recordings you create using the App. We do not claim ownership over your content.
+
+3. Intellectual Property
+-------------------------
+All trademarks, logos, and intellectual property related to the App (excluding your recordings) are owned by us and protected by law. You may not copy, modify, or distribute any part of the App without our written permission.
+
+4. No Warranties
+-----------------
+The App is provided "as is" and "as available" without warranties of any kind, either express or implied. We do not guarantee that the App will be error-free, uninterrupted, or suitable for your specific needs.
+
+We are not responsible for any loss or damage resulting from your use of the App, including lost recordings or device issues.
+
+5. Limitation of Liability
+----------------------------
+To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App.
+
+6. Termination
+---------------
+We may suspend or terminate your access to the App at any time and for any reason, without notice, especially if you violate these Terms.
+
+7. Changes to These Terms
+---------------------------
+We may update these Terms from time to time. Continued use of the App after such changes constitutes your acceptance of the new Terms. You are encouraged to review this document periodically.
+
+8. Governing Law
+-----------------
+These Terms shall be governed by and construed in accordance with the laws of your country or state of residence, without regard to its conflict of law principles.
+
+9. Contact Information
+------------------------
+If you have any questions about these Terms, please contact us.
+
+--
+
+By using the Screen Recorder App, you confirm that you have read and agreed to these Terms of Use.
