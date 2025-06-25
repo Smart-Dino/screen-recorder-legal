@@ -1,0 +1,62 @@
+Privacy Policy for Screen Recorder App
+
+Effective Date: June 25, 2025
+Last Updated: June 25, 2025
+
+Thank you for using the Screen Recorder app ("App", "we", "our", or "us"). Your privacy is important to us. This Privacy Policy explains how we handle your information when you use the App.
+
+1. Information We Do NOT Collect
+--------------------------------
+We do NOT collect, store, transmit, or share any of your personal data. Specifically, the App does not collect:
+
+- Your name, email address, or contact information
+- Your location
+- Your recordings, screenshots, or any on-screen activity
+- Device identifiers (IDFA, IP address, etc.)
+- Any usage analytics
+
+Your data is completely private and remains on your device.
+
+2. Local Storage of Recordings
+-------------------------------
+All screen recordings created using this App are stored **only on your device** and are not transmitted to any server or third party. You have full control over your recordings, and they are never uploaded automatically.
+
+3. No Third-Party Services
+---------------------------
+This App does not use any third-party services or SDKs such as:
+
+- Analytics providers (e.g. Google Analytics, Firebase)
+- Advertising networks
+- Crash reporting tools (e.g. Sentry, Crashlytics)
+
+4. App Permissions
+-------------------
+To function properly, the App may request access to:
+
+- **Screen Recording APIs**: Used only to record your screen when you choose to start a recording
+- **Local Photo/Video Library (optional)**: If you want to save or access screen recordings
+
+These permissions are requested only with your explicit consent and are not used for any other purposes.
+
+5. Children’s Privacy
+----------------------
+Our App is not directed to children under the age of 13. We do not knowingly collect personal information from children. If you believe your child has provided us with personal data, please contact us immediately.
+
+6. Security
+------------
+Since we do not collect or transmit data, there is no risk of your data being compromised by us. All recordings are stored securely on your device and protected by your system-level security.
+
+7. Changes to This Privacy Policy
+----------------------------------
+We may update this Privacy Policy from time to time. If we make significant changes, we will notify you through the App or via this document’s update date.
+
+You are encouraged to review this Privacy Policy periodically to stay informed about our practices.
+
+8. Contact Us
+--------------
+If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact us.
+
+--
+
+By using the Screen Recorder App, you agree to the terms outlined in this Privacy Policy.
+
