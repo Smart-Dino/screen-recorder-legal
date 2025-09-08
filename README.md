@@ -16,7 +16,7 @@ This repository contains the public-facing legal and safety documentation for th
 - ✉️ [Contact](./CONTACT.md)
 
 > For reviewers: These same pages are published at our Support website:
-> - Support: `[https://your-domain.example/screen-recorder/](https://github.com/Smart-Dino/screen-recorder-legal/blob/main/SUPPORT.md)`
+> - Support: `https://github.com/Smart-Dino/screen-recorder-legal/blob/main/SUPPORT.md`
 > - Privacy: `https://github.com/Smart-Dino/screen-recorder-legal/blob/main/privacy_policy.txt`
 > - Terms:   `https://github.com/Smart-Dino/screen-recorder-legal/blob/main/terms_of_use.txt`
 > - Safety:  `https://github.com/Smart-Dino/screen-recorder-legal/blob/main/SAFETY.md`
