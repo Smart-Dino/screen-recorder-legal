@@ -9,7 +9,7 @@ This repository contains the public-facing legal and safety documentation for th
 - **Support**: How to get help.
 
 ## Quick links
-- 📄 [Privacy Policy](./PRIVACY.md)
+- 📄 [Privacy Policy](./privacy_policy.txt)
 - 📜 [Terms of Use](./TERMS.md)
 - ✅ [Safety & Responsible Use](./SAFETY.md)
 - 🆘 [Support](./SUPPORT.md)
@@ -17,6 +17,6 @@ This repository contains the public-facing legal and safety documentation for th
 
 > For reviewers: These same pages are published at our Support website:
 > - Support: `https://your-domain.example/screen-recorder/`
-> - Privacy: `https://your-domain.example/screen-recorder/privacy`
+> - Privacy: `https://github.com/Smart-Dino/screen-recorder-legal/blob/main/privacy_policy.txt`
 > - Terms: `https://your-domain.example/screen-recorder/terms`
 > - Safety: `https://your-domain.example/screen-recorder/safety`
